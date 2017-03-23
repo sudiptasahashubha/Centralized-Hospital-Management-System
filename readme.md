@@ -6,3 +6,4 @@ A web based application to manage various records of a hospital. Various feature
 
 - ASP.NET
 - Oracle Database
+- CSS
