@@ -6,4 +6,5 @@ Centralized database management of hospitals in a locality. Implemented features
 
 - ASP.NET
 - Oracle Database
+- SQL
 - CSS
